@@ -62,8 +62,16 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
    
    <img width="603" height="261" alt="image" src="https://github.com/user-attachments/assets/487005ec-8404-476c-ac68-cca1f6fedfe2" />
 
-4. Data Awal Produk
+4. Data Awal Produk dan akun default
    
    - Program juga sudah menyediakan 4 produk yang dimana jika user sewaktu login pertama kali langsung memilih menu Lihat Produk, dan produknya seperti dibawah ini.
 
      <img width="1041" height="185" alt="image" src="https://github.com/user-attachments/assets/0b2871f4-e695-4f0f-9377-dbf316939219" />
+     
+   - Program juga sudah menyediakan akun default atau akun yang akan dipakai login, jadi ketika user pertama kali memilih login maka disarankan memasukkan username dan password dibawah ini.
+
+     <img width="613" height="118" alt="image" src="https://github.com/user-attachments/assets/37b004a1-cd4a-407a-a001-a357a4905a17" />
+
+5. Penerapan MVC
+
+   <img width="718" height="276" alt="image" src="https://github.com/user-attachments/assets/5ba0d82d-a7fa-40e9-b666-f7d359ea3c09" />
