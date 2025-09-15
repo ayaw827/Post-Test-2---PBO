@@ -1,0 +1,5 @@
+model\produk.class
+service\userservice.class
+model\user.class
+service\produkservice.class
+main\main.class
