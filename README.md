@@ -58,6 +58,12 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
 
    E. SEARCH
    
-   Dan terakhir fitur cari yang dimana memudahkan user untuk mencari produk tekstil berdasarkan keyword seperti dibawah ini.
+   Dan terakhir fitur cari yang dimana memudahkan user untuk mencari produk tekstil berdasarkan keyword bisa berdasarkan nama produk ataupun kategori seperti dibawah ini.
    
    <img width="603" height="261" alt="image" src="https://github.com/user-attachments/assets/487005ec-8404-476c-ac68-cca1f6fedfe2" />
+
+3. Data Awal Produk
+   
+   - Program juga sudah menyediakan 4 produk yang dimana jika user sewaktu login pertama kali langsung memilih menu Lihat Produk, dan produknya seperti dibawah ini.
+
+     <img width="1041" height="185" alt="image" src="https://github.com/user-attachments/assets/0b2871f4-e695-4f0f-9377-dbf316939219" />
