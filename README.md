@@ -32,20 +32,20 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
    <img width="373" height="252" alt="image" src="https://github.com/user-attachments/assets/0cb8bf9e-bb31-4c50-9561-9ae644ae9c3b" />
 
    B. READ
+
    Menampilkan semua produk dalam bentuk tabel rapi yang dimana didalam tabel terdapat ID, Nama Produk, Kategori, dan Harga.
    
    <img width="598" height="376" alt="image" src="https://github.com/user-attachments/assets/648d7563-5834-4d4f-b21e-5f1d50217072" />
 
    C. UPDATE
+
    Memperbarui data produk berdasarkan ID, yang dimana user update produk Pakaian menjadi Syal dengan kategori Fashion dan dengan harga RP9.000.000 seperti dibawah ini.
    
    <img width="387" height="286" alt="image" src="https://github.com/user-attachments/assets/95c63752-eb1b-4eab-9174-d4906064d8af" />
-
-<img width="598" height="376" alt="image" src="https://github.com/user-attachments/assets/0e880afe-0999-412c-9955-591f73a2a907" />
-
-<img width="387" height="286" alt="image" src="https://github.com/user-attachments/assets/22fe70bb-52f6-4db7-a4f7-a70621519f2e" />
-
-
+   
+   Lalu lihat kembali data produk yang sudah di update tadi dengan memilih menu 2
+   
+   <img width="590" height="185" alt="image" src="https://github.com/user-attachments/assets/d299bdfe-14a3-4260-8ec6-72b7ae9d4ea5" />
 
    D. DELETE
    
