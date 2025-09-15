@@ -48,5 +48,16 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
    <img width="590" height="185" alt="image" src="https://github.com/user-attachments/assets/d299bdfe-14a3-4260-8ec6-72b7ae9d4ea5" />
 
    D. DELETE
+   Menghapus produk berdasarkan ID, yang dimana user menghapus ID 2
    
+   <img width="384" height="226" alt="image" src="https://github.com/user-attachments/assets/e02f18c4-19e2-449f-b27e-14ebf7a72d53" />
+   
+   Jika sudah bisa di cek lagi
+   
+   <img width="608" height="165" alt="image" src="https://github.com/user-attachments/assets/a357c2ff-3c2b-4201-b457-d73c57f67285" />
+
    E. SEARCH
+   
+   Dan terakhir fitur cari yang dimana memudahkan user untuk mencari produk tekstil berdasarkan keyword seperti dibawah ini.
+   
+   <img width="603" height="261" alt="image" src="https://github.com/user-attachments/assets/487005ec-8404-476c-ac68-cca1f6fedfe2" />
