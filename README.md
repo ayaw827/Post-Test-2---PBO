@@ -14,16 +14,16 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
    User baru dapat mendaftar kedalam sistem yang dimana harus input username dan password baru.
 
    <img width="378" height="305" alt="image" src="https://github.com/user-attachments/assets/5edb4f3f-41c9-4a66-a551-449afc345735" />
-  
-  Sedangkan user lama juga dapat login dengan akun yang sudah ada.
-  
-  <img width="365" height="155" alt="image" src="https://github.com/user-attachments/assets/72855612-3cb6-4516-b26d-6f830f5b7222" />
-  
-  Dan ketika user salah input username atau password maka user diminta input ulang
-  
-  <img width="302" height="233" alt="image" src="https://github.com/user-attachments/assets/82faf1e2-0619-4131-ab94-b5ac018c9006" />
 
-2. Manajemen Produk menggunakan CRUD
+   Sedangkan user lama juga dapat login dengan akun yang sudah ada.
+
+   <img width="365" height="155" alt="image" src="https://github.com/user-attachments/assets/72855612-3cb6-4516-b26d-6f830f5b7222" />
+
+   Dan ketika user salah input username atau password maka user diminta input ulang
+
+   <img width="302" height="233" alt="image" src="https://github.com/user-attachments/assets/82faf1e2-0619-4131-ab94-b5ac018c9006" />
+
+3. Manajemen Produk menggunakan CRUD
 
    A. CREATE
    
@@ -62,7 +62,7 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
    
    <img width="603" height="261" alt="image" src="https://github.com/user-attachments/assets/487005ec-8404-476c-ac68-cca1f6fedfe2" />
 
-3. Data Awal Produk
+4. Data Awal Produk
    
    - Program juga sudah menyediakan 4 produk yang dimana jika user sewaktu login pertama kali langsung memilih menu Lihat Produk, dan produknya seperti dibawah ini.
 
