@@ -42,4 +42,5 @@ Program Sistem Manajemen Produk Tekstil ini adalah program yang dibuat dengan ko
    <img width="387" height="286" alt="image" src="https://github.com/user-attachments/assets/95c63752-eb1b-4eab-9174-d4906064d8af" />
 
    D. DELETE
+   
    E. SEARCH
